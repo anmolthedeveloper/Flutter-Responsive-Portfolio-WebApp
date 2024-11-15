@@ -32,8 +32,8 @@ class TitleText extends StatelessWidget {
                       end: Alignment.centerRight,
                       begin: Alignment.centerLeft,
                       colors: [
-                        Colors.pink,
-                        Colors.cyanAccent,
+                        Colors.amber,
+                        Colors.deepOrange,
                       ]).createShader(bounds);
                 },
                 child: Text(
